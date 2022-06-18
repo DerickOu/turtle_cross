@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
+https://github.com/schoolimportant001/turtle_cross/blob/main/car_manager.pyCOLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 STARTING_MOVE_DISTANCE = 5
 MOVE_INCREMENT = 10
 
